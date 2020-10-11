@@ -1,0 +1,12 @@
+.product {
+    display: flex;
+}
+
+.product img {
+    margin-right: 40px;
+}
+
+.product h2 {
+    color: blue;
+    font-weight: 300;
+}

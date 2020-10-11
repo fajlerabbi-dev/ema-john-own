@@ -1,0 +1,12 @@
+.add-to-cart {
+    background: #ff9800;
+    padding: 10px 40px;
+    border: 1px solid #333;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.add-to-cart svg {
+    margin-right: 10px;
+}
